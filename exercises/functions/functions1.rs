@@ -8,3 +8,6 @@
 fn main() {
     call_me();
 }
+fn call_me(){
+    println!("This is my function which, I am calling from Main function");
+}
