@@ -2,6 +2,7 @@
 //
 // Execute `rustlings hint functions5` or use the `hint` watch subcommand for a
 // hint.
+// I AM NOT DONE
 
 
 
@@ -12,5 +13,5 @@ fn main() {
 
 fn square(num: i32) -> i32 {
     num * num;
-    return num;
+    return num*num;
 }
